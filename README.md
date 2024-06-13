@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanposh&label=Profile%20views&color=0e75b6&style=flat" alt="hasanposh" /> </p>
 
-- 💬 Ask me about **react,**
+- 💬 Ask me about **JavaSvript,React.js,Express.js.MongoDB**
 
 - 📫 How to reach me **hasan104hasan@gmail.com**
 
