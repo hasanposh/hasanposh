@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&height=20&lines=Hi%2C+Hasan+Mahmud+here.)](https://git.io/typing-svg)
-<h3 align="center">a dedicated Bangladeshi front-end developer </h3>
+<h3 align="center">A Dedicated Bangladeshi Front-end Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanposh&label=Profile%20views&color=0e75b6&style=flat" alt="hasanposh" /> </p>
 
