@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 - 💬 I'm mostly active within the **React.js** Community
-- ⚙️ I use daily : react.js, node.js, express.js, html, css.
+- ⚙️ I use daily : **react.js, node.js, express.js, html, css.**
 
 - 📫 How to reach me **hasan104hasan@gmail.com**
   
