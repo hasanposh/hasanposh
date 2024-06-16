@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanposh&label=Profile%20views&color=0e75b6&style=flat" alt="hasanposh" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 - 💬 Ask me about **JavaSvript,React.js,Express.js.MongoDB**
 
 - 📫 How to reach me **hasan104hasan@gmail.com**
-- 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
